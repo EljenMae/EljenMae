@@ -42,7 +42,7 @@ Check out more in my **[repositories](https://github.com/EljenMae?tab=repositori
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eljen-mae-augusto-547600261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eljen-mae-augusto-547600261/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 💡 *Open to collaboration, learning opportunities, and exciting new challenges!*
