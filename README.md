@@ -1,9 +1,11 @@
-## Hi there 👋
+# ✨💗 Eljen Mae 💗✨
 
-<!--
-**EljenMae/EljenMae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**#'Junior Developer'#**](https://readme-typing-svg.demolab.com/demo/?font=Junior+Developer&color=EF31F7)
 
-Here are some ideas to get you started:
+I'm an Junior Developer focusing in Java for now. All coding projects are built just for fun, and exploring on my capabilities in programming. I just making projects from basic to hard kind of projects. 
+
+
+<-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
