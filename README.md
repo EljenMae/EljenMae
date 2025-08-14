@@ -1,9 +1,8 @@
 # ✨💗 Eljen Mae Augusto💗✨
 
-🚀 **Junior Developer** | 💻 **Java & Python Enthusiast** | 🌐 **Django Developer** | 🎨 **UI/UX Learner**
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Junior+Developer&pause=1000&color=EF31F7&width=435&lines=Junior+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF31F7&width=435&lines=Junior+Developer;Java+%26+Python+Enthusiast;Django+Developer;UI%2FUX+Learner" alt="Typing SVG" />
+</a>
 
 
 I’m passionate about building projects that range from **simple, beginner-friendly apps** to **challenging, real-world solutions**.  
@@ -29,8 +28,6 @@ I work with **Java, Python, and Django** for back-end and full-stack development
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
 
 ---
 
