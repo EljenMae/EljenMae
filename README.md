@@ -1,7 +1,7 @@
 # ✨💗 Eljen Mae Augusto💗✨
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF31F7&width=435&lines=Junior+Developer;Java+%26+Python+Enthusiast;Django+Developer;UI%2FUX+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF31F7&width=435&lines=Junior+Developer;Java+%26+Python+Enthusiast;Django+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </a>
 
 
