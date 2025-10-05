@@ -6,7 +6,9 @@
 
 
 I’m passionate about building projects that range from **simple, beginner-friendly apps** to **challenging, real-world solutions**.  
-I work with **Java, Python, and Django** for back-end and full-stack development, while also exploring **UI/UX design in Figma** to create beautiful, user-friendly interfaces.  
+I work with **Java, Python, and Django** for back-end and full-stack development, while also exploring **UI/UX design in Figma** to create beautiful, user-friendly interfaces.
+
+🌐 Check out my <a href="https://eljenmae.github.io/" target="_blank"><strong>Eljen Mae Portfolio</strong></a> to see my projects and designs in action!
 
 ---
 
@@ -43,7 +45,8 @@ Check out more in my **[repositories](https://github.com/EljenMae?tab=repositori
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eljen-mae-augusto-547600261/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eljen4545@gmail.com)
+
 
 💡 *Open to collaboration, learning opportunities, and exciting new challenges!*
 
