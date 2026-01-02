@@ -33,11 +33,11 @@ I work with **Java, Python, and Django** for back-end and full-stack development
 
 ---
 
-## 📌 Featured Projects
-- 🔢 **Number Guessing Game** – A fun console game that tests your guessing skills.  
-- 📝 **To-Do List App** – A simple but effective way to manage daily tasks.  
-- ➗ **Simple Calculator** – Performs basic math operations with ease.  
-- 🌐 **Django Blog** – A fully functional blog platform with authentication and CRUD features.  
+## 📌 Featured Java Projects
+- 🔢 **Number Guessing Game** – A fun console game that tests your guessing skills. 
+
+## 📌 Featured Django Projects
+- 🔢 **Number Guessing Game** – A fun console game that tests your guessing skills.  (Example)
 
 Check out more in my **[repositories](https://github.com/EljenMae?tab=repositories)**.
 
