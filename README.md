@@ -34,7 +34,8 @@ I work with **Java, Python, and Django** for back-end and full-stack development
 ---
 
 ## 📌 Featured Java Projects
-- 🔢 **Triangle Area Calculator** – A simple Java program that calculates the area of a triangle based on user input.
+- 🔢 **[Triangle Area Calculator](https://github.com/EljenMae/TriangleAreaCalculator)** – A simple Java program that calculates the area of a triangle based on user input.
+
 
 ## 📌 Featured Django Projects
 - 🔢 **Number Guessing Game** – A fun console game that tests your guessing skills.  (Example)
